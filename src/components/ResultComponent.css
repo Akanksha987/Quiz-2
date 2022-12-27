@@ -1,0 +1,62 @@
+*{
+    background-color: blueviolet;
+    font-family: 'Times New Roman', Times, serif;
+}
+h1{
+    text-align: center;
+    color: green;
+    font-size: 35px;
+}
+.container{
+    background-color: beige;
+    border-left: 3px solid rgb(51, 18, 105);
+    width: 40%;
+    margin: 2rem auto 0 auto;
+    padding: 1.5rem 2rem;
+}
+h3{
+    text-align: center;
+    background-color: beige;
+    font-size: 25px;
+}
+h2{
+    text-align: center;
+    background-color: beige;
+    color: blue;
+    font-size: 35px;
+    font-weight: 600;
+}
+.box{
+    background-color: beige;
+    display: flex;
+    justify-content: space-between;
+    gap: 0;
+    font-size: 20px;
+    font-weight: 500;
+}
+.details{
+    background-color: beige;
+    
+}
+.number{
+    background-color: beige;
+}
+p{
+    background-color: beige;
+}
+.button{
+    margin: 30px;
+    text-align: center;
+}
+.play{
+    border-color: lavender;
+    color: rgb(118, 118, 214);
+    background-color: antiquewhite;
+    width: 7%;
+    margin: 30px;
+}
+.back{
+    border-color: rgb(50, 236, 50);
+    color:rgb(50,236,50) ;
+    background-color: antiquewhite;
+}

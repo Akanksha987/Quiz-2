@@ -1,0 +1,86 @@
+*{
+    background-color: blueviolet;
+    text-align: center;
+}
+.questions{
+    background-color: beige;
+    border-left: 3px solid rgb(51, 18, 105);
+    width: 80%;
+    margin: 75px auto 0 auto;
+    padding: 30px;
+}
+h1{
+    font-size: 45px;
+    background-color: beige;
+    text-align: center;
+}
+.span{
+    background-color: beige;
+}
+span{
+    background-color: beige;
+    font-weight: 600;
+    font-size: large;
+}
+h3{
+    background-color: beige;
+    text-align: center;
+    font-weight: 600;
+    font-size: 25px;
+}
+.answer{
+    background-color: beige;
+    display: inline-block;
+    width: 45%;
+    align-items: center;
+}
+.option{
+    background-color: rgb(106, 116, 211);
+    border-radius: 30px;
+    color: white;
+    cursor: pointer;
+    text-align: center;
+    width: 70%;
+    margin: 30px;
+    padding: 20px;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+}
+button{
+    background-color: beige;
+}
+.button{
+    background-color: beige;
+    display: flex;
+    width: 80%;
+    padding: 30px;
+    justify-content: center;
+    margin: 0 auto 25px auto;
+}
+.previous{
+    background-color: rgb(121, 121, 184);
+    font-size: 20px;
+    border: none;
+    border-radius: 5%;
+    margin:15px;
+    padding: 10px 25px;
+    font-weight: 500;
+}
+.next{
+    background-color: green;
+    font-size: 20px;
+    border: none;
+    border-radius: 5%;
+    margin: 15px;
+    padding: 10px 25px;
+    font-weight: 500;
+}
+.quit{
+    background-color: rgb(214, 28, 28);
+    font-size: 20px;
+    border: none;
+    border-radius: 5%;
+    margin: 15px;
+    padding: 10px 25px;
+    font-weight: 500;
+}
